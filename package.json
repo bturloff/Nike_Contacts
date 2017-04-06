@@ -1,0 +1,25 @@
+{
+  "name": "contacts",
+  "version": "1.0.0",
+  "description": "API for reading/writing contact objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bturloff/Nike_Contacts.git"
+  },
+  "keywords": [
+    "contacts"
+  ],
+  "author": "Brian Turloff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bturloff/Nike_Contacts/issues"
+  },
+  "homepage": "https://github.com/bturloff/Nike_Contacts#readme",
+  "dependencies": {
+    "restify": "^4.3.0"
+  }
+}
